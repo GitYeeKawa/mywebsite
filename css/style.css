@@ -1,4 +1,8 @@
 body {
   font-size: medium;
   color: blue;
+}
+
+.pic {
+  background-image: url(../Pictures/bg.jpg);
 }/*# sourceMappingURL=style.css.map */
